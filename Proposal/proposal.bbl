@@ -1,0 +1,19 @@
+\begin{thebibliography}{1}\itemsep=-1pt
+
+\bibitem{NLP}
+W.~J. Corvey.
+\newblock Twitter in mass emergency: what nlp techniques can contribute.
+\newblock {\em Association for Computational Linguistics}, 2010.
+
+\bibitem{NN}
+X.~Ding.
+\newblock Deep learning for event-driven stock prediction.
+\newblock {\em Ijcai}, 2015.
+
+\bibitem{StockPrice1}
+Kim, Kyoung-jae, and I.~Han.
+\newblock Genetic algorithms approach to feature discretization in artificial
+  neural networks for the prediction of stock price index.
+\newblock {\em Expert systems with Applications}, 19(2):125--132, 2000.
+
+\end{thebibliography}
